@@ -1,4 +1,4 @@
-## 👋 Hi, I’m <h3>Vinod Kumar</h3>
+## 👋 Hi, I’m Vinod Kumar
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning and Data Science...
 - 📫 How to reach me vinodnahdaura@gmail.com and vkn842919@gmail.com
