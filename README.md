@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning and Data Science...
 - 📫 How to reach me vinodnahdaura@gmail.com and vkn842919@gmail.com
-- My resume: https://drive.google.com/file/d/1E1VZIMMlOXu_VS4DRZP4oxtjZWoJmQCp/view?usp=sharing
+- My resume: https://drive.google.com/file/d/1WAPYzb2MQjYzArasqjFqRFwsIpR9tGer/view?usp=sharing
 - All projects are available at https://github.com/opVinod
  ### My Skills:
  ##### Languages and Tools:
