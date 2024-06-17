@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Vinod Kumar
-- 👀 I’m interested in BackEnd Developer.
+- 👀 I’m interested in BackEnd Development.
 - 🌱 I’m currently learning C# , .Net Core and Basic React Js...
 - 📫 How to reach me vinodnahdaura@gmail.com 
-- My resume: https://drive.google.com/file/d/1WAPYzb2MQjYzArasqjFqRFwsIpR9tGer/view?usp=sharing
+- My resume: [https://drive.google.com/file/d/1WAPYzb2MQjYzArasqjFqRFwsIpR9tGer/view?usp=sharing](https://drive.google.com/file/d/13O6gOJYHLxhty1MTSgxJyaZmPiYOL2Bx/view?usp=sharing)
 - All projects are available at https://github.com/opVinod
  ### My Skills:
  ##### Languages and Tools:
